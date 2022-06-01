@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px">
+# Hi 👋, I Am Chandra Shekhar
 
 ## 🚀 About Me
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ✈️ I love **travelling** as well.
 
 <a href="https://app.daily.dev/cssrajput"><img src="https://api.daily.dev/devcards/2736dabe709a439b94b964591c421955.png?r=scg" width="400" alt="Chandra Shekhar Singh's Dev Card"/></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssrajput&layout=compact&theme=tokyonight)]
 
 ## 🔗 Links
 
