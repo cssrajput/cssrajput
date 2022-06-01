@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/cssrajput"><img src="https://api.daily.dev/devcards/2736dabe709a439b94b964591c421955.png?r=scg" width="400" alt="Chandra Shekhar Singh's Dev Card"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssrajput&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssrajput&layout=compact&theme=tokyonight)
 
 ## 🔗 Links
 
