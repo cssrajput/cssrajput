@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ✈️ I love **travelling** as well.
 
+<a href="https://app.daily.dev/cssrajput"><img src="https://api.daily.dev/devcards/2736dabe709a439b94b964591c421955.png?r=scg" width="400" alt="Chandra Shekhar Singh's Dev Card"/></a>
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://cssrajput.github.io/)
