@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 I am Chandra Shekhar Singh Rajput, over 9+ years of experience in Java Integration development.
+🎓 I am Chandra Shekhar Singh Rajput, and I have over 12+ years of experience in Java Integration development.
 
-👨‍💻 I enjoy designing and deploying production-ready end to end architecture for Java EE, Spring Boot, and Microservices.
+👨‍💻 I enjoy designing and deploying production-ready end-to-end architecture for Java EE, Spring Boot, and Microservices.
 
 🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **swimming**, **horse riding**.
 
